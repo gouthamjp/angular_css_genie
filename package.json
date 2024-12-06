@@ -1,8 +1,8 @@
 {
-  "name": "learn",
-  "displayName": "learning",
+  "name": "angularcssgenie",
+  "displayName": "Angular CSS Genie",
   "description": "",
-  "version": "0.0.1",
+  "version": "1.0.0-beta.1",
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -14,12 +14,7 @@
   ],
   "main": "./out/extension.js",
   "contributes": {
-    "commands": [
-      {
-        "command": "learn.helloWorld",
-        "title": "Hello World"
-      }
-    ]
+    "commands": []
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",
