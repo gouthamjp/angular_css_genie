@@ -1,7 +1,8 @@
 {
   "name": "angularcssgenie",
   "displayName": "Angular CSS Genie",
-  "description": "",
+  "description": "An Angular extension that generates css classes you use in your html file automatically",
+  "license": "MIT",
   "version": "1.0.0-beta.1",
   "engines": {
     "vscode": "^1.95.0"
