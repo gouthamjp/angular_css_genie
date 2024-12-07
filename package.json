@@ -1,7 +1,7 @@
 {
   "name": "angularcssgenie",
   "displayName": "Angular CSS Genie",
-  "description": "An Angular extension that generates css classes you use in your html file automatically",
+  "description": "Angular CSS Genie is an Angular extension that automatically generates CSS classes used in your component's HTML file and adds them to the component's CSS file.",
   "license": "MIT",
   "version": "1.0.0-beta.1",
   "engines": {
