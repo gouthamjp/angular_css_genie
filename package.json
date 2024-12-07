@@ -3,9 +3,10 @@
   "displayName": "Angular CSS Genie",
   "description": "Angular CSS Genie is an Angular extension that automatically generates CSS classes used in your component's HTML file and adds them to the component's CSS file.",
   "license": "MIT",
-  "version": "1.0.0-beta.1",
+  "icon": "images/logo.png",
+  "version": "1.0.0",
   "engines": {
-    "vscode": "^1.95.0"
+      "vscode": "^1.95.0"
   },
   "categories": [
     "Other"
